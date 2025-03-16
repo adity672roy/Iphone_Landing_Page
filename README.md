@@ -9,13 +9,7 @@
 
 - [Apple Logo for loading screen](https://www.iconfinder.com/icons/104447/apple_logo_icon)
 
-There are 3 videos:
-
-- Video by <a href="https://pixabay.com/users/engin_akyurt-3656355/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=21536">Engin Akyurt</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=21536">Pixabay</a> <br />
-
-- Video by <a href="https://pixabay.com/users/helix_games-17997136/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=49791">Brent Olson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=49791">Pixabay</a> <br />
-
-- Video by <a href="https://pixabay.com/users/vimeo-free-videos-1283884/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=699">Vimeo-Free-Videos</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=699">Pixabay</a> <br />
+ 
 
 ### External Libraries used in this project:
 
@@ -24,9 +18,7 @@ There are 3 videos:
 - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei) <br />
 - [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber) <br />
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
 
 ## Available Scripts
 
